@@ -3,7 +3,7 @@
   "code": "KPN1",
   "type": "Deck Build Pack",
   "date": "15-02-2021",
-  "image": "https://github.com/JustBryant/KingdomsImages/blob/main/PackImages/kingdoms1.png",
+  "image": "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/PackImages/kingdoms1.png",
   "pull_type": "distribution",
   "distribution": "deck_build_pack",
   "cards": [
