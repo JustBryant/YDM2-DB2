@@ -3,7 +3,7 @@
   "name": "Brick-Eyes Inconsistency Dragon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 tuner + 1 non tuner monster \n If this card is Synchro Summoned: Skip your next Draw Phase. (Quick Effect) You can banish 1 card in your hand; then banish 1 card on the field. You can only use this effect of \"Brick-Eyes Inconsistency Dragon\" once per turn. This card cannot be destroyed by battle.",
+  "text": "1 Tuner monster + 1 or more non-Tuner monsters \n If this card is Synchro Summoned: Skip your next Draw Phase. (Quick Effect) You can banish 1 card from your hand; banish 1 card on the field. You can only use this effect of \"Brick-Eyes Inconsistency Dragon\" once per turn. This card cannot be destroyed by battle.",
   "images": [
     "https://raw.githubusercontent.com/JustBryant/KingdomsImages/main/KP2/Brick-Eyes_Inconsistency_Dragon.jpg"
   ],
